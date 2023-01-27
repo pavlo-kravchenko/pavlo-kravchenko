@@ -4,7 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pavel-zlotarenchuk&show_icons=true&theme=github_dark" alt="" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-zlotarenchuk&layout=compact&theme=github_dark" alt="" height="150px"/>
 </a>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavel-zlotarenchuk&theme=github_dark" alt="pavel-zlotarenchuk"/>
 
 ## About me
 - 👨‍💻 Developer from Ukraine.
