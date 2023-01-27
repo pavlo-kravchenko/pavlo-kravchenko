@@ -9,7 +9,7 @@
 - 👨‍💻 Developer from Ukraine.
 - 🇺🇦 Russian warship FUCK YOU.
 
-## My projects:
+## My projects
 
 ### AdStat
 
