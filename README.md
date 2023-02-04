@@ -69,6 +69,8 @@ Network tools:
 
 And:
 - Authentication to the application via Touch ID / Face ID.
+- Work with Git.
+- Code editor for Swift, Kotlin, Java, Python, HTML and more.
 - Customize the terminal theme.
 - Adjust the font size.
 
