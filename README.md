@@ -9,7 +9,7 @@
 - 👨‍💻 Developer from Ukraine.
 - 🇺🇦 Russian warship FUCK YOU.
 
-## My projects:
+## My projects
 
 ### AdStat
 
@@ -112,4 +112,4 @@ Functionality:
 - Search for videos, photos and Vkontakte albums
 - Secure authorization
 
-[![Download on the Google Play](screenshots/googleplaybadge.svg)](https://play.google.com/store/apps/details?id=com.mdgroup.socialmedia)
+[![Download on the Google Play](assets/googleplaybadge.svg)](https://play.google.com/store/apps/details?id=com.mdgroup.socialmedia)
