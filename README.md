@@ -113,3 +113,27 @@ Functionality:
 - Secure authorization
 
 [![Download on the Google Play](assets/googleplaybadge.svg)](https://play.google.com/store/apps/details?id=com.mdgroup.socialmedia)
+
+
+### NASA Wallpapers
+
+![status](https://img.shields.io/badge/status-stable-green.svg)
+![iOS](https://img.shields.io/badge/iOS-15.0%2B-green.svg)
+![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)
+
+![Banner](assets/nasa_wallpapers_1024x500.png)
+
+NASA Wallpapers - app for view Astronomy Picture of the Day photo from NASA
+
+Features:
+- Get high-definition daily NASA APOD photos delivered right to your device.
+- View additional info on every photo or video and share with friends.
+- Save photos as device wallpaper.
+- Browse, search, and view all previous APOD items.
+- Bookmarks with your like photos. 
+
+Enjoy the universe around you each and every day with the all new SpaceGeek APOD for iOS.
+
+The copyright owner of the photo is listed below the photos. If the copyright owner is not specified, the copyright belongs to NASA.
+
+[![Look at GitHub](assets/githubbadge.svg)](https://github.com/mobile-development-group/NASAWallpaper)
