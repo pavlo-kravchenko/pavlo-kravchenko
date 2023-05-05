@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<a href="https://github.com/pavel-zlotarenchuk" style="width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavel-zlotarenchuk&show_icons=true&theme=github_dark" alt="" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-zlotarenchuk&layout=compact&theme=github_dark" alt="" height="150px"/>
+<a href="https://github.com/pavlo-kravchenko" style="width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavlo-kravchenko&show_icons=true&theme=github_dark" alt="" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlo-kravchenko&layout=compact&theme=github_dark" alt="" height="150px"/>
 </a>
 
 ## About me
